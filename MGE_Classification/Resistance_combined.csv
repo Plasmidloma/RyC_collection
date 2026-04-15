@@ -1,0 +1,481 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE	Strain
+./fasta_files/PF_EC01.fasta	1	3074096	3075328	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.86	resfinder	Y08743	mdf(A)		PF_EC01
+./fasta_files/PF_EC01.fasta	2	66031	66906	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC01
+./fasta_files/PF_EC02.fasta	contig_1_circular	4890774	4892006	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.46	resfinder	Y08743	mdf(A)		PF_EC02
+./fasta_files/PF_EC02.fasta	contig_2	73335	74150	-	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC02
+./fasta_files/PF_EC02.fasta	contig_2	76552	77340	-	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC02
+./fasta_files/PF_EC02.fasta	contig_2	77471	77944	-	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC02
+./fasta_files/PF_EC02.fasta	contig_2	103872	104747	-	blaCTX-M-1_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ915955	blaCTX-M-1	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC02
+./fasta_files/PF_EC02.fasta	contig_3	53239	54099	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC02
+./fasta_files/PF_EC02.fasta	contig_3	56145	57350	-	tet(B)_2	1-1206/1206	Err:510	0/0	100	100	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline	PF_EC02
+./fasta_files/PF_EC03.fasta	1	3202600	3203832	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC03
+./fasta_files/PF_EC03.fasta	2	44164	45024	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC03
+./fasta_files/PF_EC03.fasta	3	66518	67393	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC03
+./fasta_files/PF_EC04.fasta	1	4340101	4341333	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC04
+./fasta_files/PF_EC04.fasta	2	42793	43266	+	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC04
+./fasta_files/PF_EC04.fasta	2	43397	44185	+	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC04
+./fasta_files/PF_EC04.fasta	2	44705	45571	+	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC04
+./fasta_files/PF_EC04.fasta	2	50866	51787	-	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC04
+./fasta_files/PF_EC04.fasta	2	53158	53973	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC04
+./fasta_files/PF_EC04.fasta	2	54034	54837	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC04
+./fasta_files/PF_EC04.fasta	2	54837	55673	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	99.88	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC04
+./fasta_files/PF_EC04.fasta	2	56652	57898	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC04
+./fasta_files/PF_EC04.fasta	2	60224	61084	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC04
+./fasta_files/PF_EC04.fasta	3	5403	6278	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC04
+./fasta_files/PF_EC05.fasta	1	1315956	1317188	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.86	resfinder	Y08743	mdf(A)		PF_EC05
+./fasta_files/PF_EC05.fasta	3	11697	12557	-	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC05
+./fasta_files/PF_EC06.fasta	1	2517496	2518742	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC06
+./fasta_files/PF_EC06.fasta	1	3186223	3187455	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.92	resfinder	Y08743	mdf(A)		PF_EC06
+./fasta_files/PF_EC06.fasta	NODE_2+_length_112430_cov_0.997587	8089	8877	-	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC06
+./fasta_files/PF_EC06.fasta	NODE_2+_length_112430_cov_0.997587	13966	14781	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC06
+./fasta_files/PF_EC06.fasta	NODE_2+_length_112430_cov_0.997587	92429	93304	-	blaCTX-M-1_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ915955	blaCTX-M-1	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC06
+./fasta_files/PF_EC07.fasta	1	3136641	3137873	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.78	resfinder	Y08743	mdf(A)		PF_EC07
+./fasta_files/PF_EC07.fasta	2	49269	49742	+	dfrA1_10	1-474/474	Err:510	0/0	100	99.79	resfinder	AF203818	dfrA1	Trimethoprim	PF_EC07
+./fasta_files/PF_EC07.fasta	2	49825	50626	+	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_EC07
+./fasta_files/PF_EC07.fasta	2	51104	51944	+	sul1_5	1-841/867	Err:510	0/0	97	99.76	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC07
+./fasta_files/PF_EC07.fasta	3	18645	19520	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC07
+./fasta_files/PF_EC08.fasta	1	3243097	3244329	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC08
+./fasta_files/PF_EC08.fasta	2	48981	49841	+	aac(3)-IId_1	1-861/861	Err:510	0/0	100	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin	PF_EC08
+./fasta_files/PF_EC08.fasta	2	51013	51873	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC08
+./fasta_files/PF_EC08.fasta	3	5001	5876	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC08
+./fasta_files/PF_EC09.fasta	contig_1_circular	3363763	3364995	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.92	resfinder	Y08743	mdf(A)		PF_EC09
+./fasta_files/PF_EC09.fasta	contig_3	453	1109	+	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_EC09
+./fasta_files/PF_EC09.fasta	contig_3	40861	41721	+	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC09
+./fasta_files/PF_EC10.fasta	NODE_1_length_5105783_cov_0.998618	2050560	2051792	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.57	resfinder	Y08743	mdf(A)		PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	6063	6865	+	aph(3'')-Ib_2	2-804/804	Err:510	0/0	99.88	100	resfinder	AF024602	aph(3'')-Ib	Streptomycin	PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	6865	7701	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	11084	11959	+	blaCTX-M-1_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ915955	blaCTX-M-1	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	13514	14435	-	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	15309	16093	+	aac(3)-IVa_1	1-786/786	Err:510	01/01/26	99.87	99.87	resfinder	X01385	aac(3)-IVa	Gentamicin;Tobramycin	PF_EC10
+./fasta_files/PF_EC10.fasta	NODE_3+_length_76697_cov_1.86314	16314	17339	+	aph(4)-Ia_1	1-1026/1026	Err:510	0/0	100	100	resfinder	V01499	aph(4)-Ia		PF_EC10
+./fasta_files/PF_EC11.fasta	NODE_1+_length_5132816_cov_1	1526672	1527547	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_1+_length_5132816_cov_1	3361206	3362438	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.3	resfinder	Y08743	mdf(A)		PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_19+_length_106442_cov_13	60875	61796	+	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_19+_length_106442_cov_13	67089	67955	-	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_19+_length_106442_cov_13	68475	69263	-	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_19+_length_106442_cov_13	69394	69868	-	dfrA17_1	1-474/474	Err:510	01/01/26	100	99.79	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_4+_length_10723_cov_4.6779	70	991	+	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_4+_length_10723_cov_4.6779	6286	7152	-	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_4+_length_10723_cov_4.6779	7672	8460	-	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC11
+./fasta_files/PF_EC11.fasta	NODE_4+_length_10723_cov_4.6779	8591	9064	-	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC11
+./fasta_files/PF_EC12.fasta	NODE_1+_length_5116136_cov_1	5009802	5011034	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_11_2+_length_123452_cov_1.19969	115859	117105	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_11_2+_length_123452_cov_1.19969	121313	121912	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_11_2+_length_123452_cov_1.19969	122043	122873	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_5+_length_16288_cov_4.8401	70	991	+	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_5+_length_16288_cov_4.8401	6286	7152	-	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_5+_length_16288_cov_4.8401	7672	8460	-	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_5+_length_16288_cov_4.8401	8586	9059	-	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC12
+./fasta_files/PF_EC12.fasta	NODE_5+_length_16288_cov_4.8401	11969	12844	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC12
+./fasta_files/PF_EC13.fasta	1	3194073	3195305	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.89	resfinder	Y08743	mdf(A)		PF_EC13
+./fasta_files/PF_EC13.fasta	2	30625	31485	-	aac(3)-IId_1	1-861/861	Err:510	0/0	100	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin	PF_EC13
+./fasta_files/PF_EC13.fasta	2	99392	99865	+	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC13
+./fasta_files/PF_EC13.fasta	2	99996	100784	+	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC13
+./fasta_files/PF_EC13.fasta	2	101304	102170	+	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC13
+./fasta_files/PF_EC13.fasta	2	107465	108386	-	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC13
+./fasta_files/PF_EC13.fasta	2	115326	116539	+	floR_2	1-1214/1215	Err:510	0/0	99.92	98.19	resfinder	AF118107	floR	Chloramphenicol;Florfenicol	PF_EC13
+./fasta_files/PF_EC13.fasta	2	117140	118414	-	tet(A)_6	1-1275/1275	Err:510	0/0	100	99.92	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC13
+./fasta_files/PF_EC13.fasta	2	119675	120511	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC13
+./fasta_files/PF_EC13.fasta	2	120511	121314	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC13
+./fasta_files/PF_EC13.fasta	2	121375	122190	-	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC13
+./fasta_files/PF_EC13.fasta	3	44307	45482	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.92	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_EC13
+./fasta_files/PF_EC13.fasta	3	45506	48658	+	oqxB_1	1-3153/3153	Err:510	0/0	100	99.97	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_EC13
+./fasta_files/PF_EC13.fasta	3	50307	51101	-	aph(3')-IIa_2	1-795/795	Err:510	0/0	100	100	resfinder	V00618	aph(3')-IIa		PF_EC13
+./fasta_files/PF_EC13.fasta	3	77669	78414	+	blaTEM-141_1	116-861/861	..=============	0/0	86.64	99.87	resfinder	AY956335	blaTEM-141	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC13
+./fasta_files/PF_EC13.fasta	3	79196	80071	-	blaCTX-M-55_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC13
+./fasta_files/PF_EC14.fasta	contig_1_circular	3477048	3478280	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.68	resfinder	Y08743	mdf(A)		PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	28370	29245	-	blaCTX-M-32_2	1-876/876	Err:510	0/0	100	100	resfinder	AJ557142	blaCTX-M-32	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	50402	51262	+	aac(3)-IId_1	1-861/861	Err:510	0/0	100	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	57476	58267	+	sul3_2	1-792/792	Err:510	0/0	100	100	resfinder	AJ459418	sul3	Sulfamethoxazole	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	61637	62438	-	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	62521	63718	-	cmlA1_1	63-1260/1260	Err:510	0/0	95.08	99.92	resfinder	M64556	cmlA1	Chloramphenicol	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_2	73341	74142	+	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_EC14
+./fasta_files/PF_EC14.fasta	contig_3	11815	13020	-	tet(B)_2	1-1206/1206	Err:510	0/0	100	100	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline	PF_EC14
+./fasta_files/PF_EC15.fasta	1	1544024	1545256	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.73	resfinder	Y08743	mdf(A)		PF_EC15
+./fasta_files/PF_EC15.fasta	2	13790	14389	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_EC15
+./fasta_files/PF_EC15.fasta	2	14520	15350	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_EC15
+./fasta_files/PF_EC15.fasta	2	17295	18170	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC15
+./fasta_files/PF_EC15.fasta	2	25314	25973	-	catA1_1	1-660/660	Err:510	0/0	100	99.85	resfinder	V00622	catA1	Chloramphenicol	PF_EC15
+./fasta_files/PF_EC16.fasta	contig_1_circular	1347713	1348945	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.14	resfinder	Y08743	mdf(A)		PF_EC16
+./fasta_files/PF_EC16.fasta	contig_1_circular	2705637	2706512	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC16
+./fasta_files/PF_EC16.fasta	contig_1_circular	4828790	4829665	+	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC16
+./fasta_files/PF_EC17.fasta	1	4469250	4470482	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC17
+./fasta_files/PF_EC17.fasta	2	33724	34599	-	blaCTX-M-27_1	1-876/876	Err:510	0/0	100	100	resfinder	AY156923	blaCTX-M-27	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC17
+fasta_files/PF_EC18.fasta	contig_1	1564637	1565869	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.89	resfinder	Y08743	mdf(A)		PF_EC18
+fasta_files/PF_EC18.fasta	contig_2	16190	17050	-	aac(3)-IId_1	1-861/861	Err:510	0/0	100	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin	PF_EC18
+fasta_files/PF_EC18.fasta	contig_2	19150	20010	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC18
+fasta_files/PF_EC18.fasta	contig_8	63872	64747	-	blaCTX-M-55_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC18
+./fasta_files/PF_EC19.fasta	1	1456419	1457651	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	98.95	resfinder	Y08743	mdf(A)		PF_EC19
+./fasta_files/PF_EC19.fasta	1	4485771	4487017	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC19
+./fasta_files/PF_EC19.fasta	1	4544778	4545593	+	sul2_3	1-816/816	Err:510	0/0	100	100	resfinder	HQ840942	sul2	Sulfamethoxazole	PF_EC19
+./fasta_files/PF_EC19.fasta	1	4545654	4546457	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC19
+./fasta_files/PF_EC19.fasta	1	4546457	4547293	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC19
+./fasta_files/PF_EC19.fasta	1	4548561	4549421	+	blaTEM-1D_1	1-861/861	Err:510	0/0	100	100	resfinder	AF188200	blaTEM-1D	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC19
+/fasta_files/PF_EC19.fasta,1,4550288,4551075,-,sul1_5,1-788/867,==============	0/0	90.89	99.87	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC19							
+./fasta_files/PF_EC19.fasta	1	4551519	4552092	-	dfrA7_5	1-570/570	Err:510	03/04/26	100	98.78	resfinder	AJ419170	dfrA7	Trimethoprim	PF_EC19
+./fasta_files/PF_EC19.fasta	4	9526	10386	-	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC19
+./fasta_files/PF_EC19.fasta	5	23707	24567	-	blaTEM-1D_1	1-861/861	Err:510	0/0	100	100	resfinder	AF188200	blaTEM-1D	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC19
+./fasta_files/PF_EC20.fasta	contig_1_circular	4778560	4779792	+	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC20
+./fasta_files/PF_EC20.fasta	contig_5	5418	6293	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC20
+./fasta_files/PF_EC20.fasta	contig_5	7463	8323	+	aac(3)-IId_1	1-861/861	Err:510	0/0	100	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin	PF_EC20
+./fasta_files/PF_EC20.fasta	contig_5	13295	14155	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC20
+./fasta_files/PF_EC21.fasta	1	869242	870057	+	sul2_2	1-816/816	Err:510	0/0	100	99.88	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC21
+./fasta_files/PF_EC21.fasta	1	870118	870921	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC21
+./fasta_files/PF_EC21.fasta	1	870921	871757	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC21
+./fasta_files/PF_EC21.fasta	1	873018	874292	+	tet(A)_6	1-1275/1275	Err:510	0/0	100	99.92	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC21
+./fasta_files/PF_EC21.fasta	1	874893	876106	-	floR_2	1-1214/1215	Err:510	0/0	99.92	98.19	resfinder	AF118107	floR	Chloramphenicol;Florfenicol	PF_EC21
+./fasta_files/PF_EC21.fasta	1	3265230	3266462	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.97	resfinder	Y08743	mdf(A)		PF_EC21
+./fasta_files/PF_EC21.fasta	2	30795	32000	-	tet(B)_2	1-1206/1206	Err:510	0/0	100	100	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline	PF_EC21
+./fasta_files/PF_EC21.fasta	2	34841	35701	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_EC21
+./fasta_files/PF_EC21.fasta	2	40855	41730	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC21
+./fasta_files/PF_EC22.fasta	1	3248704	3249936	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	97.81	resfinder	Y08743	mdf(A)		PF_EC22
+./fasta_files/PF_EC22.fasta	1	3564287	3565162	+	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC22
+./fasta_files/PF_EC22.fasta	2	49370	49843	+	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_EC22
+./fasta_files/PF_EC22.fasta	2	49974	50762	+	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_EC22
+./fasta_files/PF_EC22.fasta	2	51282	52148	+	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC22
+./fasta_files/PF_EC22.fasta	2	57443	58364	-	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_EC22
+./fasta_files/PF_EC22.fasta	2	59735	60550	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC22
+./fasta_files/PF_EC22.fasta	2	60611	61414	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC22
+./fasta_files/PF_EC22.fasta	2	61414	62250	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	99.88	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC22
+./fasta_files/PF_EC22.fasta	2	63229	64475	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC22
+./fasta_files/PF_EC22.fasta	2	66909	67769	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC22
+./fasta_files/PF_EC23.fasta	NODE_1+_length_4664359_cov_1	2997923	2999155	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.92	resfinder	Y08743	mdf(A)		PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	5321	6567	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	99.92	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	14107	14967	-	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	17881	18672	+	sul3_2	1-792/792	Err:510	0/0	100	100	resfinder	AJ459418	sul3	Sulfamethoxazole	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	20354	21155	-	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	21238	22497	-	cmlA1_1	1-1260/1260	Err:510	0/0	100	99.92	resfinder	M64556	cmlA1	Chloramphenicol	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_3+_length_114680_cov_0.950573	22759	23560	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_edge_4+_length_171364_cov_15	70578	71783	-	tet(B)_2	1-1206/1206	Err:510	0/0	100	100	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_edge_4+_length_171364_cov_15	74613	75473	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_edge_4+_length_171364_cov_15	78901	79474	+	dfrA7_5	1-570/570	Err:510	03/04/26	100	98.78	resfinder	AJ419170	dfrA7	Trimethoprim	PF_EC23
+./fasta_files/PF_EC23.fasta	NODE_edge_4+_length_171364_cov_15	79918	80784	+	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_EC23
+./fasta_files/PF_EC24.fasta	1	3124324	3125556	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.84	resfinder	Y08743	mdf(A)		PF_EC24
+./fasta_files/PF_EC24.fasta	1	4752783	4753582	-	ant(3'')-Ia_1	170-972/972	..======/======	01/03/26	82.3	99.38	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_EC24
+./fasta_files/PF_EC24.fasta	1	4754248	4754721	-	dfrA1_8	1-474/474	Err:510	0/0	100	100	resfinder	X00926	dfrA1	Trimethoprim	PF_EC24
+./fasta_files/PF_EC24.fasta	2	67766	68641	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC24
+./fasta_files/PF_EC24.fasta	3	19	855	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC24
+./fasta_files/PF_EC24.fasta	3	2116	3390	+	tet(A)_6	1-1275/1275	Err:510	0/0	100	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_EC24
+./fasta_files/PF_EC24.fasta	3	6741	7556	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC24
+./fasta_files/PF_EC24.fasta	3	7617	8401	+	aph(3'')-Ib_5	1-785/804	Err:510	0/0	97.64	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_EC24
+./fasta_files/PF_EC25.fasta	1	2989696	2990928	-	mdf(A)_1	1-1233/1233	Err:510	0/0	100	99.92	resfinder	Y08743	mdf(A)		PF_EC25
+./fasta_files/PF_EC25.fasta	3	5537	5953	+	fosA3_1	1-417/417	Err:510	0/0	100	100	resfinder	AB522970	fosA3	Fosfomycin	PF_EC25
+./fasta_files/PF_EC25.fasta	3	8788	9533	+	blaTEM-141_1	116-861/861	..=============	0/0	86.64	99.87	resfinder	AY956335	blaTEM-141	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_EC25
+./fasta_files/PF_EC25.fasta	3	10315	11190	-	blaCTX-M-3_1	1-876/876	Err:510	0/0	100	100	resfinder	Y10278	blaCTX-M-3	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_EC25
+./fasta_files/PF_EC25.fasta	3	71725	72540	+	aph(3')-Ia_3	1-816/816	Err:510	0/0	100	99.88	resfinder	EF015636	aph(3')-Ia		PF_EC25
+./fasta_files/PF_EC25.fasta	3	83494	84295	+	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.88	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_EC25
+./fasta_files/PF_EC25.fasta	3	85977	86679	-	sul3_2	90-792/792	.==============	0/0	88.76	100	resfinder	AJ459418	sul3	Sulfamethoxazole	PF_EC25
+./fasta_files/PF_EC25.fasta	3	96669	97529	+	blaTEM-176_1	1-861/861	Err:510	0/0	100	100	resfinder	GU550123	blaTEM-176		PF_EC25
+./fasta_files/PF_EC25.fasta	4	1872	2687	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_EC25
+./fasta_files/PF_EC25.fasta	4	3287	3769	+	dfrA14_5	1-483/483	Err:510	0/0	100	99.79	resfinder	DQ388123	dfrA14	Trimethoprim	PF_EC25
+./fasta_files/PF_EC25.fasta	4	4119	4955	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_EC25
+./fasta_files/PF_KPN01.fasta	contig_1_circular	325270	325689	+	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_1_circular	2236202	2237068	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_1_circular	3669661	3670836	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_1_circular	3670860	3674012	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_2	218200	219036	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_2	219036	219839	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	205367	206182	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	206243	207046	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	207046	207882	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	208603	209463	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	212285	213160	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	221777	222259	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	225542	226186	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	234442	235688	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	239601	240431	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_3	240562	241161	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN01
+./fasta_files/PF_KPN01.fasta	contig_5	1697	2557	-	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN01
+./fasta_files/PF_KPN02.fasta	contig_1_circular	783964	784824	+	blaSHV-145_1	1-861/861	Err:510	0/0	100	99.88	resfinder	JX013655	blaSHV-145		PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_1_circular	2686377	2686796	-	fosA_5	1-420/420	Err:510	0/0	100	100	resfinder	AFBO01000747	fosA	Fosfomycin	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_1_circular	4605224	4608376	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.57	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_1_circular	4608400	4609575	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	5321	6567	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	22160	22951	+	sul3_2	1-792/792	Err:510	0/0	100	100	resfinder	AJ459418	sul3	Sulfamethoxazole	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	24633	25434	-	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	25517	26776	-	cmlA1_1	1-1260/1260	Err:510	0/0	100	99.92	resfinder	M64556	cmlA1	Chloramphenicol	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	27038	27839	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN02
+./fasta_files/PF_KPN02.fasta	contig_3	105148	106023	-	blaCTX-M-14_1	1-876/876	Err:510	0/0	100	100	resfinder	AF252622	blaCTX-M-14	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN02
+./fasta_files/PF_KPN03.fasta	contig_1_circular	431775	432641	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_1_circular	1868438	1869613	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_1_circular	1869637	1872789	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_1_circular	3785151	3785570	+	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	134013	134828	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	134889	135692	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	135692	136528	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	137249	138109	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	140931	141806	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	150423	150905	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	154188	154832	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	163088	164334	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	168247	169077	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	169208	169807	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN03
+./fasta_files/PF_KPN03.fasta	contig_2	170717	171577	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN03
+./fasta_files/PF_KPN04.fasta	contig_1_circular	281462	282328	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_1_circular	1716900	1718075	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_1_circular	1718099	1721251	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_1_circular	3633612	3634031	+	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	72102	72746	+	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	76029	76511	+	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	85128	86003	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	88825	89685	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	90406	91242	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	91242	92045	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	92106	92921	-	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN04
+./fasta_files/PF_KPN04.fasta	contig_2	214414	215289	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN04
+./fasta_files/PF_KPN05.fasta	contig_1_circular	291797	292216	+	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_1_circular	1304457	1305332	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_1_circular	2207673	2208539	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_1_circular	3642670	3643845	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_1_circular	3643869	3647021	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	184571	185407	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	185407	186210	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	316856	317515	+	catA1_1	1-660/660	Err:510	0/0	100	99.85	resfinder	V00622	catA1	Chloramphenicol	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	327502	328317	-	aph(3')-Ia_1	1-816/816	Err:510	0/0	100	99.75	resfinder	V00359	aph(3')-Ia		PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	332884	333741	+	blaTEM-1B_1	1-861/861	Err:510	01/03/26	99.65	99.65	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_2	333883	334743	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	100	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	145587	146402	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	146463	147266	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	147266	148102	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	148823	149683	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	152505	153380	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	161997	162479	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	165762	166406	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	173816	174415	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	174546	175376	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN05
+./fasta_files/PF_KPN05.fasta	contig_4	176819	177679	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN05
+./fasta_files/PF_KPN06.fasta	1	1225535	1228687	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	1	1228711	1229886	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	1	2747504	2748364	+	blaSHV-182_1	1-861/861	Err:510	0/0	100	99.88	resfinder	KP050489	blaSHV-182		PF_KPN06
+./fasta_files/PF_KPN06.fasta	1	4687841	4688260	-	fosA6_1	1-420/433	Err:510	0/0	97	98.81	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	77362	78177	-	aph(3')-Ia_1	1-816/816	Err:510	0/0	100	100	resfinder	V00359	aph(3')-Ia		PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	79154	80075	+	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	86697	87563	-	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	88041	88842	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	89240	89737	-	dfrA12_8	1-498/498	Err:510	0/0	100	100	resfinder	AM040708	dfrA12	Trimethoprim	PF_KPN06
+./fasta_files/PF_KPN06.fasta	2	97075	97734	-	catA1_1	1-660/660	Err:510	0/0	100	99.85	resfinder	V00622	catA1	Chloramphenicol	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	25894	26493	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	26624	27454	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	33258	33902	+	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	35586	36446	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	39003	39863	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	45015	45890	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	48712	49572	+	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	50293	51129	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	51129	51932	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN06
+./fasta_files/PF_KPN06.fasta	3	51993	52808	-	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN06
+./fasta_files/PF_KPN07.fasta	1	1198511	1201663	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	1	1201687	1202862	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	1	2635525	2636391	+	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN07
+./fasta_files/PF_KPN07.fasta	1	4547039	4547458	-	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	2	217896	218732	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	2	218732	219535	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	8871	9686	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	9747	10550	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	10550	11386	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	12107	12967	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	15789	16664	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	25281	25763	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN07
+./fasta_files/PF_KPN07.fasta	3	29046	29690	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN07
+./fasta_files/PF_KPN08.fasta	contig_1_circular	384939	385799	-	blaSHV-110_1	1-861/861	Err:510	0/0	100	100	resfinder	HQ877615	blaSHV-110		PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_1_circular	2002383	2003558	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.15	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_1_circular	2003582	2006734	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.7	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_1_circular	3861456	3861875	+	fosA_3	1-420/420	Err:510	0/0	100	98.81	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	152626	153501	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	158691	159551	-	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	160994	161824	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	161955	162554	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	165156	165629	+	dfrA15_2	1-474/474	Err:510	0/0	100	100	resfinder	AF221900	dfrA15	Trimethoprim	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	165721	166522	+	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	167000	167866	+	sul1_5	1-867/867	Err:510	0/0	100	99.77	resfinder	EU780013	sul1	Sulfamethoxazole	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_2	173133	174379	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN08
+./fasta_files/PF_KPN08.fasta	contig_3	1959	2774	-	aph(3')-Ia_9	1-816/816	Err:510	0/0	100	100	resfinder	EU722351	aph(3')-Ia		PF_KPN08
+./fasta_files/PF_KPN09.fasta	NODE_1+_length_5494081_cov_1	1218905	1222057	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_1+_length_5494081_cov_1	1222081	1223256	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_1+_length_5494081_cov_1	2876576	2877436	+	blaSHV-106_1	1-861/861	Err:510	0/0	100	99.88	resfinder	AM922307	blaSHV-106	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_1+_length_5494081_cov_1	4793631	4794050	-	fosA6_1	1-420/433	Err:510	0/0	97	99.76	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	1042	1843	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	2241	2738	-	dfrA12_8	1-498/498	Err:510	0/0	100	100	resfinder	AM040708	dfrA12	Trimethoprim	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	7756	8616	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	11438	12313	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	15817	16416	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	16547	17377	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_3+_length_32538_cov_4.57388	21290	22536	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	2525	3771	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	7431	8246	+	aph(3')-Ia_1	1-816/816	Err:510	0/0	100	100	resfinder	V00359	aph(3')-Ia		PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	235951	236752	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	237150	237647	-	dfrA12_8	1-498/498	Err:510	0/0	100	100	resfinder	AM040708	dfrA12	Trimethoprim	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	242665	243525	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	246347	247222	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	250726	251325	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN09
+./fasta_files/PF_KPN09.fasta	NODE_edge_4+_length_253674_cov_19	251456	252286	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN09
+./fasta_files/PF_KPN10.fasta	contig_1_circular	431775	432641	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_1_circular	1865215	1866390	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.83	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_1_circular	1866414	1869566	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_1_circular	3781758	3782177	+	fosA_3	1-420/420	Err:510	0/0	100	99.05	resfinder	ACWO01000079	fosA	Fosfomycin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_2	217896	218732	-	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_2	218732	219535	-	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	8871	9686	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	9747	10550	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	10550	11386	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	12107	12967	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	15789	16664	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	25281	25763	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN10
+./fasta_files/PF_KPN10.fasta	contig_3	29046	29690	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN10
+./fasta_files/PF_KPN11.fasta	1	1146560	1147420	-	blaSHV-106_1	1-861/861	Err:510	0/0	100	99.88	resfinder	AM922307	blaSHV-106	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	1	2716067	2717242	+	oqxA_1	1-1176/1176	Err:510	0/0	100	98.89	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	1	2717266	2720418	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.57	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	1	4621992	4622411	+	fosA6_1	1-420/433	Err:510	0/0	97	99.76	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	134013	134828	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	134889	135692	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	135692	136528	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	137249	138109	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	140931	141806	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	150423	150905	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	154188	154832	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	162242	162841	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	162972	163802	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN11
+./fasta_files/PF_KPN11.fasta	2	165245	166105	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN11
+./fasta_files/PF_KPN12.fasta	1	1187445	1190597	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.57	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	1	1190621	1191796	-	oqxA_1	1-1176/1176	Err:510	0/0	100	98.89	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	1	2736655	2737515	+	blaSHV-106_1	1-861/861	Err:510	0/0	100	99.88	resfinder	AM922307	blaSHV-106	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	1	4632459	4632878	-	fosA6_1	1-420/433	Err:510	0/0	97	99.76	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	134012	134827	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	134888	135691	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	135691	136527	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	137248	138108	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	140930	141805	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	150422	150904	-	dfrA14_5	1-483/483	Err:510	0/0	100	99.59	resfinder	DQ388123	dfrA14	Trimethoprim	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	158891	159535	+	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	163915	165161	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	168541	169140	+	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	169271	170101	+	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN12
+./fasta_files/PF_KPN12.fasta	2	171544	172404	+	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN12
+./fasta_files/PF_KPN13.fasta	contig_1_circular	448383	449243	-	blaSHV-106_1	1-861/861	Err:510	0/0	100	99.88	resfinder	AM922307	blaSHV-106	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_1_circular	2097952	2099127	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_1_circular	2099151	2102303	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_1_circular	4022164	4022583	+	fosA6_1	1-420/433	Err:510	0/0	97	99.76	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_2	48732	49533	-	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_2	49931	50428	-	dfrA12_8	1-498/498	Err:510	0/0	100	100	resfinder	AM040708	dfrA12	Trimethoprim	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_2	55446	56306	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_2	59128	60003	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_3	1713	2959	-	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_3	6872	7702	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_3	7833	8432	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN13
+./fasta_files/PF_KPN13.fasta	contig_3	11397	12212	-	aph(3')-Ia_1	1-816/816	Err:510	0/0	100	100	resfinder	V00359	aph(3')-Ia		PF_KPN13
+./fasta_files/PF_KPN14.fasta	contig_1_circular	437153	438019	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.54	resfinder	LN515533	blaSHV-187		PF_KPN14
+./fasta_files/PF_KPN14.fasta	contig_1_circular	1975087	1976262	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.75	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN14
+./fasta_files/PF_KPN14.fasta	contig_1_circular	1976286	1979438	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.8	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN14
+./fasta_files/PF_KPN14.fasta	contig_1_circular	3809190	3809609	+	fosA6_1	1-420/433	Err:510	0/0	97	99.52	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN14
+./fasta_files/PF_KPN14.fasta	contig_5	453	1109	+	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KPN14
+./fasta_files/PF_KPN14.fasta	contig_5	40861	41721	+	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN14
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	76900	77715	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	77776	78579	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	78579	79415	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	80136	80996	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	83818	84693	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	126024	126839	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	126900	127703	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	127703	128539	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	129260	130120	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	132942	133817	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	138971	139831	-	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	140786	141427	-	catA2_1	1-642/642	Err:510	0/0	100	96.11	resfinder	X53796	catA2	Chloramphenicol	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	143734	144378	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	150182	151012	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_235159_cov_1	151143	151742	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_5376193_cov_1	1229474	1232626	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_5376193_cov_1	1232650	1233825	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_5376193_cov_1	1557937	1558812	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_5376193_cov_1	2701633	2702493	+	blaSHV-182_1	1-861/861	Err:510	0/0	100	99.88	resfinder	KP050489	blaSHV-182		PF_KPN15
+./fasta_files/PF_KPN15.fasta	NODE_1+_length_5376193_cov_1	4603652	4604071	-	fosA6_1	1-420/433	Err:510	0/0	97	98.81	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN15
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	1444	2259	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	2320	3123	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	99.88	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	3123	3959	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	99.88	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	8200	8856	-	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	11203	11844	+	catA2_1	1-642/642	Err:510	0/0	100	96.11	resfinder	X53796	catA2	Chloramphenicol	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_3_7+_length_190550_cov_1.20854	15269	16515	+	tet(A)_6	1-1247/1275	Err:510	0/0	97.8	100	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_4+_length_18981_cov_6.25999	2123	2620	+	dfrA12_8	1-498/498	Err:510	0/0	100	100	resfinder	AM040708	dfrA12	Trimethoprim	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_4+_length_18981_cov_6.25999	3018	3819	+	aadA2_1	18-819/819	Err:510	0/0	97.92	99.88	resfinder	NC_010870	aadA2	Streptomycin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_4+_length_18981_cov_6.25999	4297	5163	+	sul1_5	1-867/867	Err:510	0/0	100	99.89	resfinder	EU780013	sul1	Sulfamethoxazole	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_4+_length_18981_cov_6.25999	10458	11379	-	mph(A)_2	1-921/921	Err:510	01/01/26	100	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_4+_length_18981_cov_6.25999	14906	15781	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_edge_1+_length_5140923_cov_19	54135	55310	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.15	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_edge_1+_length_5140923_cov_19	55334	58486	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.95	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_edge_1+_length_5140923_cov_19	1927514	1927933	+	fosA_6	1-420/420	Err:510	0/0	100	96.43	resfinder	ACZD01000244	fosA	Fosfomycin	PF_KPN16
+./fasta_files/PF_KPN16.fasta	NODE_edge_1+_length_5140923_cov_19	3740252	3741112	-	blaSHV-60_1	1-861/861	Err:510	0/0	100	100	resfinder	AB302939	blaSHV-60	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN16
+./fasta_files/PF_KPN17.fasta	contig_1	4080	4958	+	blaCTX-M-15_1	1-876/876	Err:510	02/03/26	100	99.66	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	554635	555518	+	blaCTX-M-15_1	1-876/876	Err:510	02/08/26	100	98.87	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	882460	883366	-	blaCTX-M-15_1	1-876/876	Err:510	07/31/26	100	96.25	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	1438848	1439708	+	blaSHV-182_1	1-861/861	Err:510	0/0	100	99.88	resfinder	KP050489	blaSHV-182		PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	3229201	3229620	-	fosA6_1	1-420/433	Err:510	0/0	97	98.81	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	5046177	5049329	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_1	5049353	5050528	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	87877	88737	-	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	90180	91010	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	99.88	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	91141	91740	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	99.83	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	97075	98321	+	tet(A)_6	1-1247/1275	Err:510	02/02/26	97.73	99.84	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	101771	102415	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	108485	109017	+	qnrB1_1	1-533/645	Err:510	02/02/26	82.48	99.06	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN17
+./fasta_files/PF_KPN17.fasta	contig_2	117076	117951	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN17
+./fasta_files/PF_KPN18.fasta	1	1229474	1232626	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.86	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	1	1232650	1233825	-	oqxA_1	1-1176/1176	Err:510	0/0	100	99.23	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	1	1557937	1558812	-	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	1	2701633	2702493	+	blaSHV-182_1	1-861/861	Err:510	0/0	100	99.88	resfinder	KP050489	blaSHV-182		PF_KPN18
+./fasta_files/PF_KPN18.fasta	1	4647554	4647973	-	fosA6_1	1-420/433	Err:510	0/0	97	98.81	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	154304	155119	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	155180	155983	+	aph(3'')-Ib_5	1-804/804	Err:510	0/0	100	100	resfinder	AF321551	aph(3'')-Ib	Streptomycin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	155983	156819	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	157540	158400	-	blaTEM-1B_1	1-861/861	Err:510	0/0	100	100	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	161222	162097	+	blaCTX-M-15_1	1-876/876	Err:510	0/0	100	100	resfinder	AY044436	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	167251	168111	-	aac(3)-IIa_1	1-861/861	Err:510	0/0	100	99.77	resfinder	X51534	aac(3)-IIa	Gentamicin;Tobramycin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	169066	169707	-	catA2_1	1-642/642	Err:510	0/0	100	96.11	resfinder	X53796	catA2	Chloramphenicol	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	172014	172658	-	qnrB1_1	1-645/645	Err:510	0/0	100	100	resfinder	DQ351241	qnrB1	Ciprofloxacin	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	178462	179292	-	blaOXA-1_1	1-831/831	Err:510	0/0	100	100	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	PF_KPN18
+./fasta_files/PF_KPN18.fasta	2	179423	180022	-	aac(6')-Ib-cr_1	1-600/600	Err:510	0/0	100	100	resfinder	DQ303918	aac(6')-Ib-cr	Ciprofloxacin	PF_KPN18
+./fasta_files/PF_KPN19.fasta	NODE_1+_length_5246450_cov_1	643497	643916	+	fosA6_1	1-420/433	Err:510	0/0	97	99.52	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN19
+./fasta_files/PF_KPN19.fasta	NODE_1+_length_5246450_cov_1	2518582	2519448	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.42	resfinder	LN515533	blaSHV-187		PF_KPN19
+./fasta_files/PF_KPN19.fasta	NODE_1+_length_5246450_cov_1	4056340	4057515	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.75	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN19
+./fasta_files/PF_KPN19.fasta	NODE_1+_length_5246450_cov_1	4057539	4060691	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.8	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN19
+./fasta_files/PF_KPN19.fasta	NODE_5+_length_43704_cov_2.98601	35625	36485	+	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN19
+./fasta_files/PF_KPN19.fasta	NODE_5+_length_43704_cov_2.98601	38921	39577	+	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KPN19
+./fasta_files/PF_KPN20.fasta	contig_1_circular	1035432	1035851	+	fosA6_1	1-420/433	Err:510	0/0	97	99.52	resfinder	KU254579	fosA6	Fosfomycin	PF_KPN20
+./fasta_files/PF_KPN20.fasta	contig_1_circular	2909994	2910860	-	blaSHV-187_1	1-867/867	Err:510	0/0	100	99.54	resfinder	LN515533	blaSHV-187		PF_KPN20
+./fasta_files/PF_KPN20.fasta	contig_1_circular	4447752	4448927	+	oqxA_1	1-1176/1176	Err:510	0/0	100	99.75	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KPN20
+./fasta_files/PF_KPN20.fasta	contig_1_circular	4448951	4452103	+	oqxB_1	1-3153/3153	Err:510	0/0	100	98.8	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KPN20
+./fasta_files/PF_KPN20.fasta	contig_2	150944	151600	-	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KPN20
+./fasta_files/PF_KPN20.fasta	contig_2	154036	154896	-	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KPN20
+./fasta_files/PF_KQ01.fasta	1	1172452	1175604	-	oqxB_1	1-3153/3153	Err:510	0/0	100	95.12	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	1	1175628	1176803	-	oqxA_1	1-1176/1176	Err:510	0/0	100	94.39	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	1	2757490	2758350	+	blaOKP-A-3_1	1-861/861	Err:510	0/0	100	99.3	resfinder	AM051140	blaOKP-A-3		PF_KQ01
+./fasta_files/PF_KQ01.fasta	1	4710369	4710788	-	fosA6_1	1-420/433	Err:510	0/0	97	91.91	resfinder	KU254579	fosA6	Fosfomycin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	3	51767	52618	-	sul1_9	1-852/852	Err:510	0/0	100	100	resfinder	AY963803	sul1	Sulfamethoxazole	PF_KQ01
+./fasta_files/PF_KQ01.fasta	3	60093	60895	+	aph(3'')-Ib_2	2-804/804	Err:510	0/0	99.88	100	resfinder	AF024602	aph(3'')-Ib	Streptomycin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	3	60895	61731	+	aph(6)-Id_1	1-837/837	Err:510	0/0	100	100	resfinder	M28829	aph(6)-Id	Streptomycin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	4	20960	21775	-	aph(3')-Ia_10	1-816/816	Err:510	0/0	100	100	resfinder	EU855787	aph(3')-Ia		PF_KQ01
+./fasta_files/PF_KQ01.fasta	5	453	1109	+	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KQ01
+./fasta_files/PF_KQ01.fasta	5	40861	41721	+	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KQ01
+./fasta_files/PF_KQ02.fasta	contig_1_circular	109516	110375	-	blaOKP-A-12_1	1-860/861	Err:510	0/0	99.88	99.53	resfinder	AM850915	blaOKP-A-12		PF_KQ02
+./fasta_files/PF_KQ02.fasta	contig_1_circular	1566944	1568119	+	oqxA_1	1-1176/1176	Err:510	0/0	100	93.96	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KQ02
+./fasta_files/PF_KQ02.fasta	contig_1_circular	1568143	1571295	+	oqxB_1	1-3153/3153	Err:510	0/0	100	95.18	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KQ02
+./fasta_files/PF_KQ02.fasta	contig_1_circular	3355674	3356093	+	fosA6_1	1-420/433	Err:510	0/0	97	95.48	resfinder	KU254579	fosA6	Fosfomycin	PF_KQ02
+./fasta_files/PF_KQ02.fasta	contig_5	34187	35061	+	blaCTX-M-10_1	1-875/876	Err:510	0/0	99.89	100	resfinder	AY598759	blaCTX-M-10	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KQ02
+./fasta_files/PF_KQ03.fasta	1	1148107	1151259	-	oqxB_1	1-3153/3153	Err:510	0/0	100	95.56	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KQ03
+./fasta_files/PF_KQ03.fasta	1	1151283	1152458	-	oqxA_1	1-1176/1176	Err:510	0/0	100	93.88	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KQ03
+./fasta_files/PF_KQ03.fasta	1	2362713	2363573	-	blaOKP-B-3_1	1-861/861	Err:510	0/0	100	99.53	resfinder	AM051152	blaOKP-B-3		PF_KQ03
+./fasta_files/PF_KQ03.fasta	1	4589538	4589957	-	fosA6_1	1-420/433	Err:510	0/0	97	94.29	resfinder	KU254579	fosA6	Fosfomycin	PF_KQ03
+./fasta_files/PF_KQ03.fasta	3	453	1109	+	qnrS1_1	1-657/657	Err:510	0/0	100	100	resfinder	AB187515	qnrS1	Ciprofloxacin	PF_KQ03
+./fasta_files/PF_KQ03.fasta	3	42354	43214	+	blaSHV-12_1	1-861/861	Err:510	0/0	100	100	resfinder	KF976405	blaSHV-12	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KQ03
+./fasta_files/PF_KQ04.fasta	NODE_1+_length_5059491_cov_1	1138240	1141392	-	oqxB_1	1-3153/3153	Err:510	0/0	100	95.18	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KQ04
+./fasta_files/PF_KQ04.fasta	NODE_1+_length_5059491_cov_1	1141416	1142591	-	oqxA_1	1-1176/1176	Err:510	0/0	100	93.96	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KQ04
+./fasta_files/PF_KQ04.fasta	NODE_1+_length_5059491_cov_1	2598711	2599570	+	blaOKP-A-12_1	1-860/861	Err:510	0/0	99.88	99.53	resfinder	AM850915	blaOKP-A-12		PF_KQ04
+./fasta_files/PF_KQ04.fasta	NODE_1+_length_5059491_cov_1	4412932	4413351	-	fosA6_1	1-420/433	Err:510	0/0	97	95.48	resfinder	KU254579	fosA6	Fosfomycin	PF_KQ04
+./fasta_files/PF_KQ04.fasta	NODE_5+_length_48860_cov_1.28305	46567	47441	-	blaCTX-M-10_1	1-875/876	Err:510	0/0	99.89	100	resfinder	AY598759	blaCTX-M-10	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KQ04
+./fasta_files/PF_KV01.fasta	NODE_1+_length_5613265_cov_1	1251461	1254613	-	oqxB_1	1-3153/3153	Err:510	0/0	100	98.35	resfinder	EU370913	oqxB	Nalidixic_acid;Ciprofloxacin	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_1+_length_5613265_cov_1	1254637	1255812	-	oqxA_1	1-1176/1176	Err:510	0/0	100	96.85	resfinder	EU370913	oqxA	Nalidixic_acid;Ciprofloxacin	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_1+_length_5613265_cov_1	2913350	2914210	+	blaLEN26_1	1-861/861	Err:510	0/0	100	99.88	resfinder	JQ067123	blaLEN26		PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_1+_length_5613265_cov_1	4870431	4870850	-	fosA_6	1-420/420	Err:510	0/0	100	94.76	resfinder	ACZD01000244	fosA	Fosfomycin	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_4+_length_108489_cov_1.03903	8345	8818	+	dfrA17_1	1-474/474	Err:510	0/0	100	100	resfinder	FJ460238	dfrA17	Trimethoprim	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_4+_length_108489_cov_1.03903	8949	9737	+	aadA5_1	1-789/789	Err:510	0/0	100	100	resfinder	AF137361	aadA5	Streptomycin	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_4+_length_108489_cov_1.03903	12139	12954	+	sul2_2	1-816/816	Err:510	0/0	100	100	resfinder	AY034138	sul2	Sulfamethoxazole	PF_KV01
+./fasta_files/PF_KV01.fasta	NODE_4+_length_108489_cov_1.03903	89184	90059	-	blaCTX-M-1_1	1-876/876	Err:510	0/0	100	100	resfinder	DQ915955	blaCTX-M-1	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	PF_KV01

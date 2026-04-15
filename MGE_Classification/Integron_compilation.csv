@@ -1,0 +1,255 @@
+STRAIN	ID_replicon	CALIN	complete	In0	topology	size	Start	End 
+EC01	1	0	0	0	lin	4785087		
+EC01	2	0	0	0	lin	90897		
+EC01	3	0	0	0	lin	87811		
+EC01	4	0	0	0	lin	5569		
+EC02	contig_1_circular	0	0	0	lin	4920336		
+EC02	contig_2	0	1	0	lin	108566	75646	79115
+EC02	contig_3	0	0	0	lin	129876		
+EC02	contig_4	0	0	0	lin	94675		
+EC02	contig_5	0	0	0	lin	6268		
+EC03	1	0	0	0	lin	4991618		
+EC03	2	0	0	0	lin	122723		
+EC03	3	0	0	0	lin	92583		
+EC03	4	0	0	0	lin	65206		
+EC03	5	0	0	0	lin	32025		
+EC04	1	0	0	0	lin	4914536		
+EC04	2	0	1	0	lin	149206	41874	44738
+EC04	3	0	0	0	lin	74480		
+EC04	4	0	0	0	lin	5167		
+EC04	5	0	0	0	lin	1506		
+EC05	1	0	0	0	lin	4765276		
+EC05	2	0	0	0	lin	183717		
+EC05	3	0	0	0	lin	88259		
+EC05	4	0	0	0	lin	6888		
+EC05	5	0	0	0	lin	2312		
+EC05	6	0	0	0	lin	1506		
+EC06	1	0	0	0	lin	4727064		
+EC06	NODE_2+_length_112430_cov_0.997587	0	1	0	lin	112430	7183	11249
+EC06	NODE_4+_length_35362_cov_2.01572	0	0	0	lin	35362		
+EC06	NODE_5+_length_8828_cov_3.61635	0	0	0	lin	8828		
+EC07	1	0	0	0	lin	4806412		
+EC07	2	0	1	0	lin	120953	48099	51137
+EC07	3	0	0	0	lin	103222		
+EC07	4	0	0	0	lin	6293		
+EC08	1	0	0	0	lin	5032061		
+EC08	2	0	0	0	lin	128814		
+EC08	3	0	0	0	lin	111743		
+EC09	contig_1_circular	0	0	0	lin	4855590		
+EC09	contig_2	0	0	0	lin	126155		
+EC09	contig_3	0	0	0	lin	43704		
+EC09	contig_4	0	0	0	lin	5406		
+EC09	contig_5	0	0	0	lin	4416		
+EC09	contig_6	0	0	0	lin	4318		
+EC09	contig_7	0	0	0	lin	3708		
+EC09	contig_8	0	0	0	lin	3223		
+EC09	contig_9	0	0	0	lin	2908		
+EC10	NODE_1_length_5105783_cov_0.998618	0	0	0	lin	5105783		
+EC10	NODE_3+_length_76697_cov_1.86314	0	0	0	lin	76697		
+EC10	NODE_4+_length_34231_cov_1.20187	0	0	0	lin	34231		
+EC10	NODE_5+_length_6673_cov_7.48875	0	0	0	lin	6673		
+EC10	NODE_6+_length_4081_cov_6.85642	0	0	0	lin	4081		
+EC11	NODE_1+_length_5132816_cov_1	0	0	0	lin	5132816		
+EC11	NODE_19+_length_106442_cov_13	1	0	0	lin	106442	67922	69399
+EC11	NODE_3+_length_47289_cov_1.70993	0	0	0	lin	47289		
+EC11	NODE_4+_length_10723_cov_4.6779	0	1	0	lin	10723	7119	9920
+EC11	NODE_5+_length_6850_cov_12.7435	0	0	0	lin	6850		
+EC11	NODE_6+_length_6503_cov_24.7223	0	0	0	lin	6503		
+EC11	NODE_8+_length_4234_cov_22.4664	0	0	0	lin	4234		
+EC12	NODE_1+_length_5116136_cov_1	0	0	0	lin	5116136		
+EC12	NODE_12_3_9+_length_92198_cov_0.542996	0	0	0	lin	92198		
+EC12	NODE_5+_length_16288_cov_4.8401	0	1	0	lin	16288	7119	10230
+EC12	NODE_6+_length_6647_cov_1.99365	0	0	0	lin	6647		
+EC12	NODE_7+_length_5167_cov_5.42404	0	0	0	lin	5167		
+EC12	NODE_8+_length_4087_cov_4.05808	0	0	0	lin	4087		
+EC12	NODE_10+_length_1459_cov_6.32801	0	0	0	lin	1459		
+EC12	NODE_11_2+_length_123452_cov_1.19969	0	0	0	lin	123452		
+EC12	NODE_4+_length_34603_cov_0.697642	0	0	0	lin	34603		
+EC13	1	0	0	0	lin	4984619		
+EC13	2	0	1	1	lin	150227	98221	110182
+EC13	3	0	0	0	lin	141814		
+EC13	4	0	0	0	lin	4051		
+EC14	contig_1_circular	0	0	0	lin	4966439		
+EC14	contig_2	1	1	0	lin	81263	58625	74203
+EC14	contig_3	0	0	0	lin	63013		
+EC14	contig_4	0	0	0	lin	5894		
+EC14	contig_5	0	0	0	lin	1528		
+EC15	1	0	0	0	lin	5096531		
+EC15	2	0	0	0	lin	133989		
+EC15	3	0	0	0	lin	33826		
+EC15	4	0	0	0	lin	1546		
+EC16	contig_1_circular	0	0	0	lin	5204458		
+EC16	contig_2	0	0	0	lin	58488		
+EC16	contig_3	0	0	0	lin	53885		
+EC16	contig_4	0	0	0	lin	36862		
+EC16	contig_5	0	0	0	lin	5165		
+EC16	contig_6	0	0	0	lin	3885		
+EC17	1	0	0	0	lin	5005802		
+EC17	2	0	0	0	lin	106992		
+EC17	3	0	0	0	lin	5167		
+EC17	4	0	0	0	lin	1549		
+EC18	contig_1	0	0	0	lin	4987708		
+EC18	contig_2	0	0	0	lin	83094		
+EC18	contig_3	0	0	0	lin	6646		
+EC18	contig_4	0	0	0	lin	5631		
+EC18	contig_5	0	0	0	lin	5165		
+EC18	contig_6	0	0	0	lin	4072		
+EC18	contig_7	0	0	0	lin	2113		
+EC18	contig_8	0	0	0	lin	86200		
+EC19	1	0	1	0	lin	4827154	4551042	4553263
+EC19	2	0	0	0	lin	191904		
+EC19	3	0	0	0	lin	112588		
+EC19	4	0	0	0	lin	99508		
+EC19	5	0	0	0	lin	25670		
+EC19	6	0	0	0	lin	6466		
+EC19	7	0	0	0	lin	2096		
+EC19	8	0	0	0	lin	1552		
+EC20	contig_1_circular	0	0	0	lin	4846589		
+EC20	contig_2	0	0	0	lin	2611		
+EC20	contig_3	0	0	0	lin	185654		
+EC20	contig_4	0	0	0	lin	176608		
+EC20	contig_5	0	0	0	lin	93775		
+EC20	contig_6	0	0	0	lin	5167		
+EC20	contig_7	0	0	0	lin	1506		
+EC21	1	0	0	0	lin	5075186		
+EC21	2	0	0	0	lin	125318		
+EC21	3	0	0	0	lin	96064		
+EC22	1	0	0	0	lin	5029108		
+EC22	2	0	1	0	lin	155825	48451	50968
+EC23	NODE_1+_length_4664359_cov_1	0	0	0	lin	4664359		
+EC23	NODE_3+_length_114680_cov_0.950573	0	1	0	lin	114680	19030	26334
+EC23	NODE_4+_length_97056_cov_0.686725	0	0	0	lin	97056		
+EC23	NODE_5+_length_32100_cov_1.21588	0	0	0	lin	32100		
+EC23	NODE_7+_length_1552_cov_5.44467	0	0	0	lin	1552		
+EC23	NODE_edge_4+_length_171364_cov_15	0	1	0	lin	171364	77730	79951
+EC24	1	1	0	0	lin	4792586	4752210	4754721
+EC24	2	0	0	0	lin	94345		
+EC24	3	0	0	0	lin	8401		
+EC25	1	0	0	0	lin	4807038		
+EC25	2	0	0	0	lin	194023		
+EC25	3	1	0	0	lin	127897	83354	85044
+EC25	4	0	0	0	lin	6779		
+EC25	5	0	0	0	lin	4170		
+EC25	6	0	0	0	lin	2459		
+KPN01	contig_1_circular	0	0	0	lin	5295805		
+KPN01	contig_2	0	0	0	lin	287625		
+KPN01	contig_3	0	0	1	lin	241207	222406	223419
+KPN01	contig_4	0	0	0	lin	160650		
+KPN01	contig_5	0	0	0	lin	3420		
+KPN02	contig_1_circular	0	0	0	lin	5339285		
+KPN02	contig_2	0	0	0	lin	148808		
+KPN02	contig_3	0	1	0	lin	130014	23309	30613
+KPN02	contig_4	0	0	0	lin	1746		
+KPN03	contig_1_circular	0	0	0	lin	5264416		
+KPN03	contig_2	0	0	1	lin	247093	151052	152065
+KPN03	contig_3	0	0	0	lin	161876		
+KPN03	contig_4	0	0	0	lin	53737		
+KPN04	contig_1_circular	0	0	0	lin	5260922		
+KPN04	contig_2	0	0	1	lin	222114	74869	75882
+KPN05	contig_1_circular	0	0	0	lin	5302413		
+KPN05	contig_2	0	0	0	lin	399271		
+KPN05	contig_3	0	0	0	lin	163755		
+KPN05	contig_4	0	0	1	lin	179932	162626	163639
+KPN06	1	0	0	0	lin	5370604		
+KPN06	2	0	1	0	lin	223494	87530	90895
+KPN06	3	0	0	0	lin	69335		
+KPN07	1	0	0	0	lin	5261309		
+KPN07	2	0	0	0	lin	239800		
+KPN07	3	0	0	1	lin	183740	25910	26923
+KPN08	contig_1_circular	0	0	0	lin	5339059		
+KPN08	contig_2	0	1	0	lin	175342	163986	167033
+KPN08	contig_3	0	0	0	lin	5310		
+KPN08	contig_4	0	0	0	lin	4150		
+KPN08	contig_5	0	0	0	lin	3904		
+KPN08	contig_6	0	0	0	lin	3705		
+KPN09	NODE_1+_length_5494081_cov_1	0	0	0	lin	5494081		
+KPN09	NODE_3+_length_32538_cov_4.57388	0	1	0	lin	32538	531	3896
+KPN09	NODE_edge_4+_length_253674_cov_19	0	1	0	lin	253674	235440	238805
+KPN10	contig_1_circular	0	0	0	lin	5261023		
+KPN10	contig_2	0	0	0	lin	239800		
+KPN10	contig_3	0	0	1	lin	183739	25910	26923
+KPN11	1	0	0	0	lin	5440773		
+KPN11	2	0	0	1	lin	241621	151052	152065
+KPN11	3	0	0	0	lin	3991		
+KPN12	1	0	0	0	lin	5348321		
+KPN12	2	0	0	1	lin	247920	151051	152064
+KPN12	3	0	0	0	lin	3992		
+KPN13	contig_1_circular	0	0	0	lin	5434148		
+KPN13	contig_2	0	1	0	lin	63990	48221	51586
+KPN13	contig_3	0	0	0	lin	14159		
+KPN14	contig_1_circular	0	0	0	lin	5247122		
+KPN14	contig_2	0	0	0	lin	143956		
+KPN14	contig_3	0	0	0	lin	111935		
+KPN14	contig_4	0	0	0	lin	83578		
+KPN14	contig_5	0	0	0	lin	43704		
+KPN14	contig_6	0	0	0	lin	8712		
+KPN14	contig_7	0	0	0	lin	4923		
+KPN14	contig_8	0	0	0	lin	4318		
+KPN14	contig_9	0	0	0	lin	2495		
+KPN14	contig_10	0	0	0	lin	1699		
+KPN15	NODE_1+_length_5376193_cov_1	0	0	0	lin	5376193		
+KPN15	NODE_1+_length_235159_cov_1	0	0	0	lin	235159		
+KPN16	NODE_edge_1+_length_5140923_cov_19	0	0	0	lin	5140923		
+KPN16	NODE_3_7+_length_190550_cov_1.20854	0	0	0	lin	190550		
+KPN16	NODE_4+_length_18981_cov_6.25999	0	1	0	lin	18981	965	4330
+KPN16	NODE_6+_length_3674_cov_0.837182	0	0	0	lin	3674		
+KPN17	contig_1	0	0	0	lin	5081011		
+KPN17	contig_2	0	0	1	lin	191869	111443	112456
+KPN18	1	0	0	0	lin	5421555		
+KPN18	2	0	0	0	lin	220385		
+KPN19	NODE_1+_length_5246450_cov_1	0	0	0	lin	5246450		
+KPN19	NODE_2+_length_111935_cov_0.612953	0	0	0	lin	111935		
+KPN19	NODE_4+_length_83578_cov_0.725294	0	0	0	lin	83578		
+KPN19	NODE_5+_length_43704_cov_2.98601	0	0	0	lin	43704		
+KPN19	NODE_6+_length_8712_cov_2.54526	0	0	0	lin	8712		
+KPN19	NODE_7+_length_4923_cov_1.96364	0	0	0	lin	4923		
+KPN19	NODE_8+_length_3511_cov_3.98663	0	0	0	lin	3511		
+KPN19	NODE_9+_length_1916_cov_3.62757	0	0	0	lin	1916		
+KPN19	NODE_edge_21+_length_109953_cov_12	0	0	0	lin	109953		
+KPN20	contig_1_circular	0	0	0	lin	5231669		
+KPN20	contig_2	0	0	0	lin	190520		
+KPN20	contig_3	0	0	0	lin	4923		
+KPN20	contig_4	0	0	0	lin	3511		
+KPN20	contig_5	0	0	0	lin	83578		
+KPN20	contig_6	0	0	0	lin	111935		
+KPN20	contig_7	0	0	0	lin	8712		
+KPN20	contig_8	0	0	0	lin	1916		
+KPN20	contig_9	0	0	0	lin	1699		
+KQ01	1	0	0	0	lin	5378361		
+KQ01	2	0	0	0	lin	201772		
+KQ01	3	0	0	1	lin	146040	52720	53733
+KQ01	4	0	0	0	lin	97514		
+KQ01	5	0	0	0	lin	43704		
+KQ01	6	0	0	0	lin	5225		
+KQ01	7	0	0	0	lin	3686		
+KQ02	contig_1_circular	0	0	0	lin	5059344		
+KQ02	contig_2	0	0	0	lin	163297		
+KQ02	contig_3	0	0	0	lin	120968		
+KQ02	contig_4	0	0	0	lin	66058		
+KQ02	contig_5	0	0	0	lin	48860		
+KQ02	contig_6	0	0	0	lin	4873		
+KQ02	contig_7	0	0	0	lin	4773		
+KQ02	contig_8	0	0	0	lin	4163		
+KQ02	contig_9	0	0	0	lin	3282		
+KQ03	1	0	0	0	lin	5253484		
+KQ03	2	0	0	0	lin	212347		
+KQ03	3	0	0	0	lin	45197		
+KQ03	4	0	0	0	lin	4958		
+KQ03	5	0	0	0	lin	3897		
+KQ03	6	0	0	0	lin	1917		
+KQ04	NODE_1+_length_5059491_cov_1	0	0	0	lin	5059491		
+KQ04	NODE_11_10_12+_length_4163_cov_14.5676	0	0	0	lin	4163		
+KQ04	NODE_2+_length_163296_cov_1.56543	0	0	0	lin	163296		
+KQ04	NODE_3+_length_123252_cov_0.729803	0	0	0	lin	123252		
+KQ04	NODE_4+_length_65834_cov_0.933048	0	0	0	lin	65834		
+KQ04	NODE_5+_length_48860_cov_1.28305	0	0	0	lin	48860		
+KQ04	NODE_6+_length_7720_cov_5.62207	0	0	0	lin	7720		
+KQ04	NODE_7+_length_4873_cov_7.32988	0	0	0	lin	4873		
+KQ04	NODE_8+_length_4773_cov_4.38822	0	0	0	lin	4773		
+KQ04	NODE_9+_length_3282_cov_5.69474	0	0	0	lin	3282		
+KV01	NODE_1+_length_5613265_cov_1	0	0	0	lin	5613265		
+KV01	NODE_2+_length_175169_cov_0.824842	0	0	0	lin	175169		
+KV01	NODE_3+_length_110359_cov_0.619381	0	0	0	lin	110359		
+KV01	NODE_4+_length_108489_cov_1.03903	0	1	0	lin	108489	7174	10643
+KV01	NODE_5+_length_1565_cov_10.4403	0	0	0	lin	1565		
+KV01	NODE_6_7+_length_1552_cov_11.6688	0	0	0	lin	1552		
