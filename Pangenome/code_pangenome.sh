@@ -3,7 +3,7 @@
 #The pangenome was created for K. pneumoniae and E. coli. All the fastas and the reads of the mutated strains were compiled in a folder. The annotation with prokka was used and compiled in a folder.
 #For the pangenome creation, the gff of all the affected strains by species were used. This was repeated for each species.
 	conda activate roary
-	roary -e --mafft -p 8 -o /home/predatoma/Desktop/PBE/PF_collection/fasta_files/Annotation/Ecoli /*/*.gff 
+	roary -e --mafft -p 8 -o RyC_collectionfasta_files/Annotation/Ecoli /*/*.gff 
 	conda deactivate
 
 #The pangenome was annotated again using Prokka
