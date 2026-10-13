@@ -1,21 +1,15 @@
-setwd("/home/predatoma/Desktop/PBE/PF_collection/Classification/")
-setwd("/media/paloma/TFM_Paloma/RyC_Collection/Classification/")
+setwd("/RyC_Collection/Classification/")
 
 library(tidyr)
 library(dplyr)
-library(purrr)
 library(stringr)
-library(readxl)
 library(readr)
 library(ggplot2)
 library(tibble)
-library(paletteer)
-library(viridis)
 library(cowplot)
-library(GenomicRanges)
 
 
-
+#We set the strain order using the phylogeny obtained with Mashtree
 strain_order <- c("EC24", "EC06", "EC23", "EC25", "EC05", "EC14", "EC09", "EC07",
                   "EC02", "EC01", "EC19", "EC11", "EC10", "EC16", "EC21", "EC13",
                   "EC18", "EC22", "EC03", "EC08", "EC12", "EC15", "EC17", "EC04",
@@ -258,15 +252,6 @@ mob_colors <- c(
   `non-mobilizable` = "#a4d0bdff")
 
 # summing up number of mobilization items. 
-
-mobilization_count <- mobilization%>%
-  #dplyr::slice(-1) %>%                 
-  group_by(Strain, predicted_mobility) %>%
-  summarize(rep_count = n(), .groups = "drop") %>%  
-  ungroup() %>%
-  mutate(Strain = factor(Strain, levels = strain_order)) %>%
-  arrange(Strain)
-
 mobilization_count <- mobilization%>%
   #dplyr::slice(-1) %>%                 
   group_by(predicted_mobility) %>%
